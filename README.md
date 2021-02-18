@@ -1,6 +1,8 @@
 # Proyecto_Cellular_Automata
 Autores: Rodrigo Rosado y Susana Gómez
+
 Clase de Simulación Matemática impartida por Cristian Camilo Zapata Zuluaga, ITESO.
+
 Creación de cellular automata elementales a partir de las reglas 90, 150 y 75. Se utilizó la funcion "matshow" de la libreria "matplotlib".
 
 Tambien se añadieron diferentes condiciones iniciales a las que se les llamó "de un valor", "selectivas", "aleatorias" y "espaciadas"
