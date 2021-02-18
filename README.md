@@ -15,4 +15,4 @@ El código tiene una manera simple de guardar las imagenes de alta calidad. Cada
 
 Tambien en las celdas que contienen multiples figuras es posible comentar el código que imprime subplots y descomentar cada uno de los plots individuales.
 
-El documento de regla90 Matlab fue creado para generar un video que mostrara paso por paso la generacion del cellular automaton con regla 90.
+El documento "regla90Matlab" fue creado para generar un video que mostrara paso por paso la generacion del cellular automaton con regla 90.
